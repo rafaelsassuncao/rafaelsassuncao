@@ -1,4 +1,4 @@
-### Olá, Eu me chamo Rafael!
+### Olá, eu me chamo Rafael!
 
 ### Seja bem-vindo(a) ao meu Github!💻
 
