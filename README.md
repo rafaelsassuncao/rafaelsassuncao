@@ -7,7 +7,7 @@
 
 ## Tecnologias que uso no meu dia a dia
 
-[![Javascript](https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor)
+[![HTML5](./imagens/html-5.png)
 
 <!--
 <div style="display: inline_block"><br/>
