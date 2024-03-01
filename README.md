@@ -8,6 +8,8 @@
 ## Tecnologias que uso no meu dia a dia
 
 <div style="display: inline_block"><br/>
+[![HTML5](HTML5-E34F26.svg)
+
   <img align="center" alt="html5" src="HTML5-E34F26.svg"/>
   <img align="center" alt="CSS3" src="CSS3-1572B6.svg"/>
   <img align="center" alt="Javascript" src="JavaScript-F7DF1E.svg"/>
