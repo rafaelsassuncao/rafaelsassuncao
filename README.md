@@ -7,6 +7,6 @@
 
 ## Tecnologias que uso no meu dia a dia
 
-![HTML5](/imagens/HTML5-E34F26.svg) class="no-click"
+![HTML5](/imagens/HTML5-E34F26.svg) no-click
 ![CSS](/imagens/CSS3-1572B6.svg)
 ![Javascript](/imagens/JavaScript-F7DF1E.svg)
