@@ -7,8 +7,6 @@
 
 ## Tecnologias que uso no meu dia a dia
 
-[![HTML5](./imagens/html-5.png)
-
 <!--
 <div style="display: inline_block"><br/>
 
