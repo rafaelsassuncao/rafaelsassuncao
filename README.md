@@ -10,4 +10,4 @@
 [![HTML5](imagens/HTML5-E34F26.svg)](https://github.com/rafaelsassuncao)
 [![CSS](/imagens/CSS3-1572B6.svg)](https://github.com/rafaelsassuncao)
 [![Javascript](/imagens/javascript%20imagem.svg)](https://github.com/rafaelsassuncao)
-[![Javascript](/img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://github.com/rafaelsassuncao)
+[![PHP]([/img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white))](https://github.com/rafaelsassuncao)
