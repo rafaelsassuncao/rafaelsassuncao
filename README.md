@@ -13,3 +13,4 @@
 [![CSS](/imagens/CSS3-1572B6.svg)](https://github.com/rafaelsassuncao)
 [![JavaScript](/imagens/javascript%20imagem.svg)](https://github.com/rafaelsassuncao)
 [![php](/imagens/PHP-777BB4.svg)](https://github.com/rafaelsassuncao)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/rafaelsassuncao)
