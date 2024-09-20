@@ -2,13 +2,13 @@
 
 ### Seja muito bem-vindo(a) ao meu Github 💻
 
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e estagiando no CRECI-RS, onde venho aprimorando minhas habilidades em sistemas web, especialmente com MySQL.
+##### Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e estagiando no CRECI-RS, onde venho aprimorando minhas habilidades em sistemas web, especialmente com MySQL.
 
-Estou em busca de uma vaga como desenvolvedor júnior para colocar meus conhecimentos em prática e continuar aprendendo. 
+##### Estou em busca de uma vaga como desenvolvedor júnior para colocar meus conhecimentos em prática e continuar aprendendo. 
 
-Gosto de resolver problemas e criar soluções que facilitam a vida das pessoas. No meu GitHub, você pode conferir os projetos que estou desenvolvendo e os aprendizados que venho acumulando.
+##### Gosto de resolver problemas e criar soluções que facilitam a vida das pessoas. No meu GitHub, você pode conferir os projetos que estou desenvolvendo e os aprendizados que venho acumulando.
 
-Se você procura alguém com vontade de crescer na área de tecnologia, estou aberto para conversar!
+##### Se você procura alguém com vontade de crescer na área de tecnologia, estou aberto para conversar!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/rafaelassuncaodev)
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/RafaelAssun21)
