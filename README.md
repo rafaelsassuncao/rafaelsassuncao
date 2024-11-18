@@ -1,4 +1,4 @@
-### Oi, sou o Rafael, um desenvolvedor web com experiência em PHP, JavaScript, MySQL e Bootstrap.
+### Oi, sou o Rafael, um desenvolvedor com experiência em PHP, JavaScript, MySQL e Bootstrap.
 
 ### Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e estagiando no CRECI-RS, onde trabalho com PHP, JavaScript, MySQL e Bootstrap, aprimorando minhas habilidades em sistemas web.
 
