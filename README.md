@@ -1,8 +1,12 @@
-## Olá, eu sou o Rafael! 💻
+### Oi, sou o Rafael, um desenvolvedor web com experiência em PHP, JavaScript, MySQL e Bootstrap.
 
-#### Estou cursando Análise e Desenvolvimento de Sistemas e aprimorando minhas habilidades em sistemas web como estagiário no CRECI-RS. Busco uma vaga como desenvolvedor júnior para aplicar meus conhecimentos e continuar aprendendo.
+### Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e estagiando no CRECI-RS, onde trabalho com PHP, JavaScript, MySQL e Bootstrap, aprimorando minhas habilidades em sistemas web.
 
-#### No meu GitHub, você encontra projetos que mostram o que venho desenvolvendo e aprendendo. Se está em busca de alguém comprometido em crescer na área de tecnologia, vamos conversar!
+### Estou em busca de uma vaga como desenvolvedor júnior para colocar meus conhecimentos em prática e continuar aprendendo.
+
+### Gosto de resolver problemas e criar soluções que facilitam a vida das pessoas. No meu GitHub, você pode conferir os projetos que estou desenvolvendo e os aprendizados que venho acumulando.
+
+### Se você procura alguém com vontade de crescer na área de tecnologia, pode contar comigo!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/rafaelassuncaodev)
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/RafaelAssun21)
