@@ -29,12 +29,4 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e estagian
 
 ---
 
-## 📂 Projetos e Aprendizados
-
-🔗 No meu GitHub, você encontrará projetos que refletem minha jornada de aprendizado e as soluções que venho criando. Não deixe de conferir!  
-
-➡️ **[Clique aqui para explorar meus repositórios](https://github.com/rafaelsassuncao)**  
-
----
-
 👨‍💻 **Se você procura alguém com vontade de crescer na área de tecnologia, pode contar comigo!**
