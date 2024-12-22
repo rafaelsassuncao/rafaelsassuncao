@@ -18,4 +18,4 @@
 [![JavaScript](/imagens/javascript%20imagem.svg)](https://github.com/rafaelsassuncao)
 [![php](/imagens/PHP-777BB4.svg)](https://github.com/rafaelsassuncao)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/rafaelsassuncao)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/rafaelsassuncao)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/rafaelsassuncao)
