@@ -1,14 +1,10 @@
 # 👋 Bem-vindo ao meu perfil!  
 
-Olá, me chamo **Rafael**, sou um desenvolvedor apaixonado por resolver problemas e criar soluções com **PHP**, **JavaScript**, **MySQL** e **Bootstrap**.  
+Sou desenvolvedor de software com foco em sistemas web. No meu estágio no CRECI-RS, atuo com PHP, HeidiSQL e Bootstrap, sendo responsável por desenvolver funcionalidades, analisar requisitos, testar e documentar.
 
-Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e estagiando no **CRECI-RS**, onde aprimoro minhas habilidades em sistemas web.  
+Sou formado em Análise e Desenvolvimento de Sistemas e estou fazendo pós-graduação em Business Intelligence. Também estou fazendo um curso de PHP com foco em orientação a objetos, CRUD, autenticação, design patterns e responsividade com HTML, CSS e Bootstrap.
 
-🎯 Estou em busca de uma oportunidade como **desenvolvedor júnior** para aplicar meus conhecimentos, contribuir com projetos desafiadores e continuar evoluindo na área de tecnologia.  
-
-💡 **O que me motiva?** Resolver problemas, aprender continuamente e desenvolver soluções práticas que impactem positivamente a vida das pessoas.  
-
----
+Busco sempre aprender mais e aplicar o que estudo em soluções simples, úteis e bem feitas.
 
 ## 🚀 Tecnologias que uso no dia a dia:
 
