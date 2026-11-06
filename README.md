@@ -1,28 +1,50 @@
-# 👋 Bem-vindo ao meu perfil!  
+# 👋 Olá, eu sou o Rafael! | Hi, I'm Rafael!
 
-Sou desenvolvedor de software com foco em sistemas web. No meu estágio no CRECI-RS, atuo com PHP, HeidiSQL e Bootstrap, sendo responsável por desenvolver funcionalidades, analisar requisitos, testar e documentar.
+**🇧🇷 PT** · Desenvolvedor de software com foco em sistemas web, baseado em Porto Alegre. Atuo na **Hoya Vision Care** e uso programação para transformar rotinas reais de trabalho (metas, comissões, controles, planejamento) em aplicações simples, úteis e bem feitas.
 
-Sou formado em Análise e Desenvolvimento de Sistemas e estou fazendo pós-graduação em Business Intelligence. Também estou fazendo um curso de PHP com foco em orientação a objetos, CRUD, autenticação, design patterns e responsividade com HTML, CSS e Bootstrap.
+Sou formado em **Análise e Desenvolvimento de Sistemas** e cursando pós-graduação em **Business Intelligence**. Tenho experiência prévia em desenvolvimento web com PHP, MySQL e Bootstrap (estágio no CRECI-RS), incluindo levantamento de requisitos, testes e documentação.
 
-Busco sempre aprender mais e aplicar o que estudo em soluções simples, úteis e bem feitas.
+**🇬🇧 EN** · Software developer focused on web systems, based in Porto Alegre, Brazil. I work at **Hoya Vision Care** and use code to turn real day-to-day workflows (targets, commissions, tracking, planning) into simple, useful, well-built applications.
 
-## 🚀 Tecnologias que uso no dia a dia:
-
-[![HTML5](imagens/HTML5-E34F26.svg)](https://github.com/rafaelsassuncao)
-[![CSS](/imagens/CSS3-1572B6.svg)](https://github.com/rafaelsassuncao)
-[![JavaScript](/imagens/javascript%20imagem.svg)](https://github.com/rafaelsassuncao)
-[![PHP](/imagens/PHP-777BB4.svg)](https://github.com/rafaelsassuncao)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/rafaelsassuncao)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/rafaelsassuncao)
+I hold a degree in **Systems Analysis and Development** and I'm currently pursuing a postgraduate degree in **Business Intelligence**. I have previous web development experience with PHP, MySQL and Bootstrap (internship at CRECI-RS), including requirements analysis, testing and documentation.
 
 ---
 
-## 🌐 Onde me encontrar:
+## 🚀 Tecnologias | Tech stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/rafaelassuncaodev)  
-[![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/RafaelAssun21)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rafael_assuncaos)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-👨‍💻 **Se você procura alguém com vontade de crescer na área de tecnologia, pode contar comigo!**
+## 🛠️ Em que estou trabalhando | What I'm building
+
+- **Nexo** *(privado | private)*: ecossistema de aplicativos web para organização de uma comunidade, com regras e código comum compartilhados entre os apps.
+- **Ferramentas para o trabalho comercial | Sales tools** *(privado | private)*: apps para acompanhar metas, comissões, fechamentos mensais e controles pessoais.
+- **Apps com JavaScript, TypeScript e Firebase** *(privado | private)*: login com Google, sincronização na nuvem, funcionamento offline, backup em JSON e testes automatizados.
+
+## 📚 Aprendizados | Learning path
+
+Projetos de estudo em PHP (orientação a objetos, CRUD, autenticação), HTML/CSS (Flexbox e Grid) e JavaScript, como [blog-php](https://github.com/rafaelsassuncao/blog-php), [agenda-php](https://github.com/rafaelsassuncao/agenda-php) e [exercicios-PHP](https://github.com/rafaelsassuncao/exercicios-PHP). Agora, evoluindo em JavaScript/TypeScript, Firebase, testes automatizados e Business Intelligence.
+
+---
+
+## 🌐 Onde me encontrar | Find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/rafaelassuncaodev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rafael_assuncaos)
+[![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/RafaelAssun21)
+
+---
+
+💡 **Busco sempre aprender mais e aplicar o que estudo em soluções que resolvem problemas de verdade.**
+*I keep learning and applying what I study to solutions that solve real problems.*
