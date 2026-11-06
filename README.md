@@ -2,11 +2,11 @@
 
 **🇧🇷 PT** · Desenvolvedor de software com foco em sistemas web, baseado em Porto Alegre. Atuo na **Hoya Vision Care** e uso programação para transformar rotinas reais de trabalho (metas, comissões, controles, planejamento) em aplicações simples, úteis e bem feitas.
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** e cursando pós-graduação em **Business Intelligence**. Tenho experiência prévia em desenvolvimento web com PHP, MySQL e Bootstrap (estágio no CRECI-RS), incluindo levantamento de requisitos, testes e documentação.
+Sou formado em **Análise e Desenvolvimento de Sistemas** e tenho estudos de pós-graduação em **Business Intelligence**. Tenho experiência prévia em desenvolvimento web com PHP, MySQL e Bootstrap (estágio no CRECI-RS), incluindo levantamento de requisitos, testes e documentação. Também atuo à frente da TI da **Shalom Church**, minha igreja, cuidando dos sistemas e aplicativos da comunidade.
 
 **🇬🇧 EN** · Software developer focused on web systems, based in Porto Alegre, Brazil. I work at **Hoya Vision Care** and use code to turn real day-to-day workflows (targets, commissions, tracking, planning) into simple, useful, well-built applications.
 
-I hold a degree in **Systems Analysis and Development** and I'm currently pursuing a postgraduate degree in **Business Intelligence**. I have previous web development experience with PHP, MySQL and Bootstrap (internship at CRECI-RS), including requirements analysis, testing and documentation.
+I hold a degree in **Systems Analysis and Development** and I have postgraduate coursework in **Business Intelligence**. I have previous web development experience with PHP, MySQL and Bootstrap (internship at CRECI-RS), including requirements analysis, testing and documentation. I also lead IT at **Shalom Church**, my church, looking after the community's systems and apps.
 
 ---
 
@@ -28,7 +28,7 @@ I hold a degree in **Systems Analysis and Development** and I'm currently pursui
 
 ## 🛠️ Em que estou trabalhando | What I'm building
 
-- **Nexo** *(privado | private)*: ecossistema de aplicativos web para organização de uma comunidade, com regras e código comum compartilhados entre os apps.
+- **Nexo** *(privado | private)*: ecossistema de aplicativos web da Shalom Church, com regras e código comum compartilhados entre os apps.
 - **Ferramentas para o trabalho comercial | Sales tools** *(privado | private)*: apps para acompanhar metas, comissões, fechamentos mensais e controles pessoais.
 - **Apps com JavaScript, TypeScript e Firebase** *(privado | private)*: login com Google, sincronização na nuvem, funcionamento offline, backup em JSON e testes automatizados.
 
