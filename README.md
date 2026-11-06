@@ -1,12 +1,16 @@
 # 👋 Olá, eu sou o Rafael! | Hi, I'm Rafael!
 
-**🇧🇷 PT** · Desenvolvedor de software com foco em sistemas web, baseado em Porto Alegre. Atuo na **Hoya Vision Care** e uso programação para transformar rotinas reais de trabalho (metas, comissões, controles, planejamento) em aplicações simples, úteis e bem feitas.
+**🇧🇷 PT** · Desenvolvedor de software com foco em sistemas web, baseado em Porto Alegre. Sou **representante oficial da Hoya Vision Care no RS** e uso meu conhecimento de programação para criar aplicativos que me ajudam no dia a dia comercial (metas, comissões, controles, planejamento), sempre buscando soluções simples, úteis e bem feitas.
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** e tenho estudos de pós-graduação em **Business Intelligence**. Tenho experiência prévia em desenvolvimento web com PHP, MySQL e Bootstrap (estágio no CRECI-RS), incluindo levantamento de requisitos, testes e documentação. Também atuo à frente da TI da **Shalom Church**, minha igreja, cuidando dos sistemas e aplicativos da comunidade.
+Na **Shalom Church**, minha igreja, atuo à frente da TI: crio aplicativos para a comunidade e coordeno a equipe que ajuda nesse trabalho.
 
-**🇬🇧 EN** · Software developer focused on web systems, based in Porto Alegre, Brazil. I work at **Hoya Vision Care** and use code to turn real day-to-day workflows (targets, commissions, tracking, planning) into simple, useful, well-built applications.
+Sou formado em **Análise e Desenvolvimento de Sistemas** e tenho estudos de pós-graduação em **Business Intelligence**. Tenho experiência prévia em desenvolvimento web com PHP, MySQL e Bootstrap (estágio no CRECI-RS), incluindo levantamento de requisitos, testes e documentação.
 
-I hold a degree in **Systems Analysis and Development** and I have postgraduate coursework in **Business Intelligence**. I have previous web development experience with PHP, MySQL and Bootstrap (internship at CRECI-RS), including requirements analysis, testing and documentation. I also lead IT at **Shalom Church**, my church, looking after the community's systems and apps.
+**🇬🇧 EN** · Software developer focused on web systems, based in Porto Alegre, Brazil. I'm the **official Hoya Vision Care representative in Rio Grande do Sul** and I use my programming skills to build apps that support my day-to-day sales work (targets, commissions, tracking, planning), always aiming for simple, useful, well-built solutions.
+
+At **Shalom Church**, my church, I lead IT: I build apps for the community and coordinate the team that helps with this work.
+
+I hold a degree in **Systems Analysis and Development** and I have postgraduate coursework in **Business Intelligence**. I have previous web development experience with PHP, MySQL and Bootstrap (internship at CRECI-RS), including requirements analysis, testing and documentation.
 
 ---
 
@@ -28,8 +32,8 @@ I hold a degree in **Systems Analysis and Development** and I have postgraduate 
 
 ## 🛠️ Em que estou trabalhando | What I'm building
 
-- **Nexo** *(privado | private)*: ecossistema de aplicativos web da Shalom Church, com regras e código comum compartilhados entre os apps.
-- **Ferramentas para o trabalho comercial | Sales tools** *(privado | private)*: apps para acompanhar metas, comissões, fechamentos mensais e controles pessoais.
+- **Nexo** *(privado | private)*: ecossistema de aplicativos web da Shalom Church, criado por mim e pela equipe que coordeno, com regras e código comum compartilhados entre os apps.
+- **Ferramentas para o trabalho comercial | Sales tools** *(privado | private)*: apps que uso como representante para acompanhar metas, comissões, fechamentos mensais e controles pessoais.
 - **Apps com JavaScript, TypeScript e Firebase** *(privado | private)*: login com Google, sincronização na nuvem, funcionamento offline, backup em JSON e testes automatizados.
 
 ## 📚 Aprendizados | Learning path
