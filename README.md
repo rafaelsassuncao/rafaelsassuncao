@@ -6,6 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=600&size=20&pause=1500&color=5B8CFF&center=true&vCenter=true&width=640&lines=Representante+comercial+na+Hoya+Vision+Care;Eu+construo+os+sistemas+que+uso+no+dia+a+dia;Aprendendo+na+pr%C3%A1tica%2C+um+projeto+de+cada+vez" alt="Apresentação animada" />
 </p>
 
+<p align="center">
+  <a href="https://rafaelsassuncao.github.io"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-CLIQUE%20PARA%20ABRIR%20MEU%20SITE-FFB224?style=for-the-badge&labelColor=071B52&logo=googlechrome&logoColor=white" alt="Abrir meu portfólio" /></a>
+  <br />
+  <sub>Meu portfólio é um site em 3D com os meus projetos: <a href="https://rafaelsassuncao.github.io">rafaelsassuncao.github.io</a></sub>
+</p>
+
 ## Sobre mim
 
 Sou de Porto Alegre e trabalho como representante comercial na **Hoya Vision Care**. Sou formado em **Análise e Desenvolvimento de Sistemas**, com estudos de pós-graduação em Business Intelligence, e estagiei no CRECI-RS com PHP, MySQL e Bootstrap, em levantamento de requisitos, testes e documentação.
