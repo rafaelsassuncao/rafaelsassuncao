@@ -1,63 +1,67 @@
-# 👋 Olá, eu sou o Rafael! | Hi, I'm Rafael!
+<a href="https://rafaelsassuncao.github.io">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071B52,100:3A63D6&height=200&section=header&text=Rafael%20Assun%C3%A7%C3%A3o&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Do%20comercial%20ao%20c%C3%B3digo&descAlignY=60&descSize=20" alt="Banner - Rafael Assunção" />
+</a>
 
-**🇧🇷 PT** · Desenvolvedor de software com foco em sistemas web, baseado em Porto Alegre. Trabalho como representante comercial na **Hoya Vision Care** e uso programação para criar aplicativos que facilitam a minha rotina (metas, comissões, controles, planejamento).
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=600&size=20&pause=1500&color=5B8CFF&center=true&vCenter=true&width=640&lines=Representante+comercial+na+Hoya+Vision+Care;Eu+construo+os+sistemas+que+uso+no+dia+a+dia;Aprendendo+na+pr%C3%A1tica%2C+um+projeto+de+cada+vez" alt="Apresentação animada" />
+</p>
 
-Na **Shalom Church**, minha igreja, atuo à frente da TI: crio aplicativos para a comunidade e coordeno a equipe que ajuda nesse trabalho.
+<p align="center">
+  <a href="https://rafaelsassuncao.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-rafaelsassuncao.github.io-3A63D6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/rafaelassuncaodev/"><img src="https://img.shields.io/badge/LinkedIn-rafaelassuncaodev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rafael_assuncao@outlook.com.br"><img src="https://img.shields.io/badge/E--mail-rafael__assuncao%40outlook.com.br-FFB224?style=for-the-badge&logo=gmail&logoColor=black" alt="E-mail" /></a>
+</p>
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** e tenho estudos de pós-graduação em **Business Intelligence**. Tenho experiência prévia em desenvolvimento web com PHP, MySQL e Bootstrap (estágio no CRECI-RS), incluindo levantamento de requisitos, testes e documentação.
+## Sobre mim
 
-**🇬🇧 EN** · Software developer focused on web systems, based in Porto Alegre, Brazil. I work as a sales representative at **Hoya Vision Care** and use programming to build apps that make my daily routine easier (targets, commissions, tracking, planning).
+🇧🇷 Sou de Porto Alegre e trabalho como representante comercial na **Hoya Vision Care**. Sou formado em **Análise e Desenvolvimento de Sistemas**, com estudos de pós-graduação em Business Intelligence, e estagiei no CRECI-RS com PHP, MySQL e Bootstrap, em levantamento de requisitos, testes e documentação.
 
-At **Shalom Church**, my church, I lead IT: I build apps for the community and coordinate the team that helps with this work.
+Nunca larguei a programação. Crio aplicativos para facilitar a minha rotina de vendas e estou à frente da TI da **Shalom Church**, minha igreja, onde construo o Nexo e coordeno a equipe que ajuda. Ainda estou no começo e aprendo construindo.
 
-I hold a degree in **Systems Analysis and Development** and I have postgraduate coursework in **Business Intelligence**. I have previous web development experience with PHP, MySQL and Bootstrap (internship at CRECI-RS), including requirements analysis, testing and documentation.
+🇬🇧 I'm based in Porto Alegre, Brazil, and work as a sales representative at **Hoya Vision Care**. I hold a degree in Systems Analysis and Development and previously interned at CRECI-RS with PHP, MySQL and Bootstrap. I keep building apps for my daily routine and lead IT at my church, where I build Nexo and coordinate the team that helps. I'm early in my journey and I learn by building.
 
----
+## Tecnologias
 
-## 🧭 Como eu trabalho | How I work
-
-- **Parto de problemas reais:** começo entendendo a necessidade de quem vai usar. | I start from real needs, by understanding who will use the app.
-- **Prefiro o simples:** soluções diretas, fáceis de usar e de manter. | I favor simple solutions that are easy to use and maintain.
-- **Testo e documento:** escrevo testes e registro como o projeto funciona. | I write tests and document how things work.
-- **Trabalho em equipe:** coordeno pessoas, divido tarefas e aprendo junto. | I coordinate people, share tasks and learn alongside them.
-
----
-
-## 🚀 Tecnologias | Tech stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=php,mysql,bootstrap,html,css,js,ts,firebase,python,git,github,vscode,vercel" alt="Tecnologias" />
+</p>
 
-## 🛠️ Em que estou trabalhando | What I'm building
+## Projetos (código privado)
 
-- **Nexo** *(privado | private)*: ecossistema de aplicativos web da Shalom Church, criado por mim e pela equipe que coordeno, com regras e código comum compartilhados entre os apps.
-- **Ferramentas para o trabalho comercial | Sales tools** *(privado | private)*: apps que uso no dia a dia para acompanhar metas, comissões, fechamentos mensais e controles pessoais.
-- **Apps com JavaScript, TypeScript e Firebase** *(privado | private)*: login com Google, sincronização na nuvem, funcionamento offline, backup em JSON e testes automatizados.
+| Projeto | O que é |
+| --- | --- |
+| **Nexo** | Ecossistema de aplicativos web da Shalom Church, criado por mim e pela equipe que coordeno, com regras e código comuns entre os apps. |
+| **Discipulado** | Controle de presença e acompanhamento de discipulado, com líderes e administradores em níveis de acesso diferentes. |
+| **Agenda Shalom** | Reserva de salas e espaços da igreja, em uma agenda única para os ministérios. |
+| **Meus vouchers** | Controle pessoal de vouchers para a minha rotina comercial, feito em TypeScript. |
 
-## 📚 Aprendizados | Learning path
+## Trilha de estudos
 
-Projetos de estudo em PHP (orientação a objetos, CRUD, autenticação), HTML/CSS (Flexbox e Grid) e JavaScript, como [blog-php](https://github.com/rafaelsassuncao/blog-php), [agenda-php](https://github.com/rafaelsassuncao/agenda-php) e [exercicios-PHP](https://github.com/rafaelsassuncao/exercicios-PHP). Agora, evoluindo em JavaScript/TypeScript, Firebase, testes automatizados e Business Intelligence.
+Repositórios públicos de cursos e exercícios, que mostram o que eu pratico:
 
----
+- [blog-php](https://github.com/rafaelsassuncao/blog-php) e [agenda-php](https://github.com/rafaelsassuncao/agenda-php): PHP com orientação a objetos e CRUD.
+- [projeto-filmes](https://github.com/rafaelsassuncao/projeto-filmes): scripts em Python com a API do TMDb, num teste técnico de backend.
+- [animais-fantasticos](https://github.com/rafaelsassuncao/animais-fantasticos): exercícios de JavaScript.
+- Agora estudando: testes automatizados, TypeScript e Firebase.
 
-## 🌐 Onde me encontrar | Find me
+## Como eu trabalho
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/rafaelassuncaodev)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rafael_assuncaos)
-[![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/RafaelAssun21)
+1. **Parto de problemas reais:** começo entendendo a necessidade de quem vai usar.
+2. **Prefiro o simples:** soluções diretas, fáceis de usar e de manter.
+3. **Testo e documento:** escrevo testes e registro como o projeto funciona.
+4. **Trabalho em equipe:** coordeno pessoas, divido tarefas e aprendo junto.
 
----
+## Estatísticas
 
-Estou sempre aprendendo e colocando em prática o que estudo.
-*I'm always learning and putting what I study into practice.*
+<p>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelsassuncao&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsassuncao&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A63D6,100:071B52&height=110&section=footer" alt="Rodapé" />
