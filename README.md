@@ -22,12 +22,6 @@ Nunca larguei a programação. Crio aplicativos para facilitar a minha rotina de
 
 ## Tecnologias
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
 <p>
   <img src="https://skillicons.dev/icons?i=php,mysql,bootstrap,html,css,js,ts,firebase,python,git,github,vscode,vercel" alt="Tecnologias" />
 </p>
