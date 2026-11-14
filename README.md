@@ -30,7 +30,7 @@ I'm based in Porto Alegre, Brazil, and work as a sales representative at **Hoya 
     <th>Ferramentas</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap" alt="HTML, CSS, JavaScript, TypeScript, React e Bootstrap" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap&perline=3" alt="HTML, CSS, JavaScript, TypeScript, React e Bootstrap" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=php,python,nextjs" alt="PHP, Python e Next.js" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" alt="MySQL, Postgres e Supabase" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=firebase,vercel" alt="Firebase e Vercel" /></td>
@@ -40,90 +40,69 @@ I'm based in Porto Alegre, Brazil, and work as a sales representative at **Hoya 
 
 ## Projetos
 
-> O código destes projetos é privado. Abaixo, o que cada um resolve e o que tem.
+> O código destes projetos é privado. As imagens são genéricas e representam cada app.
 
 <table>
   <tr>
-    <td valign="top" width="50%" colspan="2">
+    <td valign="middle" width="50%">
+      <a href="https://rafaelsassuncao.github.io/#projetos"><img src="assets/p-nexo.svg" alt="Nexo" width="100%" /></a>
+    </td>
+    <td valign="middle" width="50%">
       <h3>Nexo</h3>
-      <sub>Em uso</sub><br /><br />
-      <b>Para quê</b><br />
-      Reunir os aplicativos da Shalom Church em um só ecossistema, com regras e código comuns.<br /><br />
-      <b>O que tem</b>
-      <ul>
-        <li>Portal de entrada, Discipulado, Agenda e Manual dos voluntários</li>
-        <li>Criado por mim e pela equipe que coordeno</li>
-      </ul>
-      <img src="https://img.shields.io/badge/JavaScript-151B26?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/React-151B26?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Supabase-151B26?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" /> <img src="https://img.shields.io/badge/Vercel-151B26?style=flat-square&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
+      <sub>Projeto principal · Em uso</sub><br /><br />
+      Ecossistema de apps da Shalom Church, com regras e código comuns. Criado por mim e pela equipe que coordeno.<br /><br />
+      <b>Módulos:</b> Portal, Discipulado, Agenda e Manual dos voluntários<br /><br />
+      <code>JavaScript</code> <code>React</code> <code>Supabase</code> <code>Vercel</code>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
+      <a href="https://rafaelsassuncao.github.io/#projetos"><img src="assets/p-discipulado.svg" alt="Discipulado" width="100%" /></a>
       <h3>Discipulado</h3>
       <sub>Versão 4.0</sub><br /><br />
-      <b>Para quê</b><br />
-      Acompanhar a presença e o discipulado da igreja.<br /><br />
-      <b>O que tem</b>
-      <ul>
-        <li>Controle de presença</li>
-        <li>Líderes e administradores com níveis de acesso</li>
-      </ul>
-      <img src="https://img.shields.io/badge/React-151B26?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Supabase-151B26?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" /> <img src="https://img.shields.io/badge/Vercel-151B26?style=flat-square&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
+      Controle de presença e acompanhamento do discipulado, com níveis de acesso para líderes e administradores.<br /><br />
+      <code>React</code> <code>Supabase</code> <code>Vercel</code>
     </td>
     <td valign="top" width="50%">
+      <a href="https://rafaelsassuncao.github.io/#projetos"><img src="assets/p-agenda.svg" alt="Agenda Shalom" width="100%" /></a>
       <h3>Agenda Shalom</h3>
       <sub>Arquivado, hoje faz parte do Nexo</sub><br /><br />
-      <b>Para quê</b><br />
-      Organizar a reserva dos espaços da igreja.<br /><br />
-      <b>O que tem</b>
-      <ul>
-        <li>Reserva de espaços em uma agenda única</li>
-      </ul>
-      <img src="https://img.shields.io/badge/JavaScript-151B26?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+      Reserva dos espaços da igreja em uma agenda única.<br /><br />
+      <code>JavaScript</code>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
+      <a href="https://rafaelsassuncao.github.io/#projetos"><img src="assets/p-vouchers.svg" alt="Meus vouchers" width="100%" /></a>
       <h3>Meus vouchers</h3>
       <sub>Em uso pessoal</sub><br /><br />
-      <b>Para quê</b><br />
-      Controlar os meus vouchers HOYA na rotina comercial.<br /><br />
-      <b>O que tem</b>
-      <ul>
-        <li>Controle pessoal de vouchers</li>
-      </ul>
-      <img src="https://img.shields.io/badge/Next%2Ejs-151B26?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" /> <img src="https://img.shields.io/badge/TypeScript-151B26?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" /> <img src="https://img.shields.io/badge/Postgres-151B26?style=flat-square&logo=postgresql&logoColor=4169E1" alt="Postgres" /> <img src="https://img.shields.io/badge/Vercel-151B26?style=flat-square&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
+      Controle pessoal dos vouchers HOYA da minha rotina comercial.<br /><br />
+      <code>Next.js</code> <code>TypeScript</code> <code>Postgres</code> <code>Vercel</code>
     </td>
     <td valign="top" width="50%">
+      <a href="https://rafaelsassuncao.github.io/#projetos"><img src="assets/p-farma.svg" alt="Farma" width="100%" /></a>
       <h3>Farma</h3>
       <sub>Privado</sub><br /><br />
-      <b>Para quê</b><br />
-      Fazer o fechamento mensal da farmácia.<br /><br />
-      <b>O que tem</b>
-      <ul>
-        <li>Metas</li>
-        <li>Comissões</li>
-        <li>Mensagens</li>
-      </ul>
-      <img src="https://img.shields.io/badge/Next%2Ejs-151B26?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" /> <img src="https://img.shields.io/badge/TypeScript-151B26?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" /> <img src="https://img.shields.io/badge/Postgres-151B26?style=flat-square&logo=postgresql&logoColor=4169E1" alt="Postgres" />
+      Fechamento mensal da farmácia: metas, comissões e mensagens.<br /><br />
+      <code>Next.js</code> <code>TypeScript</code> <code>Postgres</code>
     </td>
   </tr>
 </table>
 
 ## Como eu trabalho
 
-1. **Parto de problemas reais.** Começo entendendo a necessidade de quem vai usar.
-2. **Prefiro o simples.** Soluções diretas, fáceis de usar e de manter.
-3. **Testo e documento.** Escrevo testes e registro como o projeto funciona.
-4. **Trabalho em equipe.** Coordeno pessoas, divido tarefas e aprendo junto.
+1. **Entendo o problema.** Ouço quem vai usar.
+2. **Planejo.** Defino o essencial primeiro.
+3. **Desenvolvo e testo.** Construo e testo no uso real.
+4. **Evoluo.** Melhoro com o uso do dia a dia.
 
 ## Contato
 
 <p align="center">
-  <a href="https://rafaelsassuncao.github.io"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-151B26?style=for-the-badge&logo=githubpages&logoColor=648CFF" alt="Portfólio" /></a>
-  <a href="https://www.linkedin.com/in/rafaelassuncaodev/"><img src="https://img.shields.io/badge/LINKEDIN-151B26?style=for-the-badge&logo=linkedin&logoColor=648CFF" alt="LinkedIn" /></a>
-  <a href="mailto:rafael_assuncao@outlook.com.br"><img src="https://img.shields.io/badge/E--MAIL-151B26?style=for-the-badge&logo=gmail&logoColor=648CFF" alt="E-mail" /></a>
-  <a href="https://github.com/rafaelsassuncao"><img src="https://img.shields.io/badge/GITHUB-151B26?style=for-the-badge&logo=github&logoColor=648CFF" alt="GitHub" /></a>
+  <a href="https://rafaelsassuncao.github.io"><img src="assets/c-portfolio.svg" alt="Portfólio" height="40" /></a>
+  <a href="https://www.linkedin.com/in/rafaelassuncaodev/"><img src="assets/c-linkedin.svg" alt="LinkedIn" height="40" /></a>
+  <a href="mailto:rafael_assuncao@outlook.com.br"><img src="assets/c-email.svg" alt="E-mail" height="40" /></a>
+  <a href="https://github.com/rafaelsassuncao"><img src="assets/c-github.svg" alt="GitHub" height="40" /></a>
 </p>
 
 <p align="center">
