@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Rafael Assunção, desenvolvedor de sistemas. Sistemas web e automações que simplificam processos.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B0D12"/><stop offset="1" stop-color="#111B30"/></linearGradient>
+    <linearGradient id="ac" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#648CFF"/><stop offset="1" stop-color="#39D5E8"/></linearGradient>
+    <radialGradient id="gl" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#648CFF" stop-opacity=".32"/><stop offset="1" stop-color="#648CFF" stop-opacity="0"/></radialGradient>
+    <pattern id="dt" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#fff" fill-opacity=".06"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="18" fill="url(#dt)"/>
+  <rect x=".5" y=".5" width="1199" height="359" rx="17.5" fill="none" stroke="#fff" stroke-opacity=".1"/>
+  <circle cx="930" cy="180" r="260" fill="url(#gl)"/>
+
+  <g font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif">
+    <text x="72" y="104" font-size="19" font-weight="600" fill="#39D5E8">Rafael Assunção · Desenvolvedor de sistemas</text>
+    <text x="72" y="170" font-size="48" font-weight="700" fill="#F1F3F8" letter-spacing="-1">Sistemas web e automações</text>
+    <text x="72" y="228" font-size="48" font-weight="700" fill="#F1F3F8" letter-spacing="-1">que simplificam processos.</text>
+    <text x="72" y="283" font-size="19" fill="#9299A8">PHP, JavaScript, TypeScript e React  ·  Porto Alegre, RS</text>
+  </g>
+
+  <g fill="none" stroke="#648CFF" stroke-opacity=".55" stroke-width="2" stroke-linecap="round" stroke-dasharray="3 9">
+    <path d="M820 92 H900 Q930 92 930 122 V150"><animate attributeName="stroke-dashoffset" from="24" to="0" dur="1.6s" repeatCount="indefinite"/></path>
+    <path d="M820 268 H900 Q930 268 930 238 V210"><animate attributeName="stroke-dashoffset" from="24" to="0" dur="1.6s" repeatCount="indefinite"/></path>
+    <path d="M1060 180 H1010"><animate attributeName="stroke-dashoffset" from="24" to="0" dur="1.6s" repeatCount="indefinite"/></path>
+    <path d="M1060 180 H1130" stroke-opacity=".3"/>
+  </g>
+
+  <g>
+    <rect x="780" y="72" width="40" height="40" rx="11" fill="#151B26" stroke="#648CFF" stroke-opacity=".6"/>
+    <rect x="780" y="248" width="40" height="40" rx="11" fill="#151B26" stroke="#39D5E8" stroke-opacity=".6"/>
+    <rect x="1060" y="160" width="40" height="40" rx="11" fill="#151B26" stroke="#648CFF" stroke-opacity=".6"/>
+    <circle cx="1130" cy="180" r="5" fill="#3DD68C"/>
+    <g fill="none" stroke="#9db6ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M791 92h18M791 99h11"/>
+      <path d="M1071 180l6 6 12-12" stroke="#8eeaf4"/>
+    </g>
+    <g fill="none" stroke="#8eeaf4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M793 268l-5 0 0 0M800 261l-8 7 8 7M810 261l8 7-8 7"/></g>
+  </g>
+
+  <g>
+    <rect x="860" y="150" width="140" height="60" rx="0" fill="none"/>
+    <rect x="870" y="120" width="120" height="120" rx="30" fill="url(#ac)"/>
+    <text x="930" y="196" text-anchor="middle" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="46" font-weight="800" fill="#07101f" letter-spacing="-1">RA</text>
+  </g>
+</svg>
